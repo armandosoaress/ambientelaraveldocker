@@ -17,4 +17,4 @@ jobs:
           username: epiz_34079346
           password: kmMio5PfEILeZZJ
           server-dir: /htdocs/
-          local-dir: /applications/projeto/
+          local-dir: ./applications/projeto/
